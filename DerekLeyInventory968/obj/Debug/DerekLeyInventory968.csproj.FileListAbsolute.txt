@@ -1,0 +1,12 @@
+C:\Users\panic\Desktop\DerekLeyInventory968\bin\Debug\DerekLeyInventory968.exe.config
+C:\Users\panic\Desktop\DerekLeyInventory968\bin\Debug\DerekLeyInventory968.exe
+C:\Users\panic\Desktop\DerekLeyInventory968\bin\Debug\DerekLeyInventory968.pdb
+C:\Users\panic\Desktop\DerekLeyInventory968\obj\Debug\DerekLeyInventory968.frmAddProduct.resources
+C:\Users\panic\Desktop\DerekLeyInventory968\obj\Debug\DerekLeyInventory968.frmMain.resources
+C:\Users\panic\Desktop\DerekLeyInventory968\obj\Debug\DerekLeyInventory968.frmAddPart.resources
+C:\Users\panic\Desktop\DerekLeyInventory968\obj\Debug\DerekLeyInventory968.frmModifyPart.resources
+C:\Users\panic\Desktop\DerekLeyInventory968\obj\Debug\DerekLeyInventory968.frmModifyProduct.resources
+C:\Users\panic\Desktop\DerekLeyInventory968\obj\Debug\DerekLeyInventory968.Properties.Resources.resources
+C:\Users\panic\Desktop\DerekLeyInventory968\obj\Debug\DerekLeyInventory968.csproj.GenerateResource.cache
+C:\Users\panic\Desktop\DerekLeyInventory968\obj\Debug\DerekLeyInventory968.exe
+C:\Users\panic\Desktop\DerekLeyInventory968\obj\Debug\DerekLeyInventory968.pdb
